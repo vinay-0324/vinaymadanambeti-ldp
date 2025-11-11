@@ -1,0 +1,7 @@
+[
+  {"Asset ID": "APL-1", "Asset Type": "Equity", "Quantity": 1000, "Market Price (USD)": 150.20, "Sector": "Tech"},
+  {"Asset ID": "TSL-2", "Asset Type": "Equity", "Quantity": 500, "Market Price (USD)": 280.50, "Sector": "Auto"},
+  {"Asset ID": "BND-A", "Asset Type": "Corporate Bond", "Quantity": 2000, "Market Price (USD)": 980.00, "Sector": "Financial"},
+  {"Asset ID": "USD-EUR", "Asset Type": "FX Forward", "Quantity": 50000, "Market Price (USD)": 1.0850, "Sector": "Currency"},
+  {"Asset ID": "MSF-3", "Asset Type": "Equity", "Quantity": 800, "Market Price (USD)": 320.75, "Sector": "Tech"}
+]
