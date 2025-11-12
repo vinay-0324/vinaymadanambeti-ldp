@@ -1,0 +1,14 @@
+[project]
+name = "problem-statement-for-mas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.0.4",
+    "langchain-mcp-adapters>=0.1.12",
+    "langgraph>=1.0.2",
+    "mcp>=1.21.0",
+    "reportlab>=4.4.4",
+    "streamlit>=1.51.0",
+]

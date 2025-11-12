@@ -1,0 +1,5 @@
+{
+  "VaR_threshold_usd": 550000.0,
+  "confidence_level": 0.99,
+  "historical_window": 10
+}
